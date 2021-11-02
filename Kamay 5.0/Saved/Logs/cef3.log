@@ -1,0 +1,15 @@
+[0802/153715.640:ERROR:dns_config_service_win.cc(793)] DNS config watch failed.
+[0802/153715.640:ERROR:dns_config_service_win.cc(793)] DNS config watch failed.
+[0803/212352.555:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0803/212352.555:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0803/212352.559:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0803/212352.559:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0803/212417.039:ERROR:dns_config_service_win.cc(793)] DNS config watch failed.
+[0803/212417.040:ERROR:dns_config_service_win.cc(793)] DNS config watch failed.
+[0808/194646.028:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0808/194646.028:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0808/194646.029:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0808/194646.029:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0808/194646.043:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 67
+[0808/194905.588:ERROR:dns_config_service_win.cc(793)] DNS config watch failed.
+[0808/194905.589:ERROR:dns_config_service_win.cc(793)] DNS config watch failed.
